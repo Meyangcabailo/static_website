@@ -7,3 +7,7 @@ h1, h2 {
 p{
     color: blueviolet;
 }
+#my-anya {
+    width: 900px;
+    border-radius: 50%;
+}
