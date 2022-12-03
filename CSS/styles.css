@@ -1,16 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Sofia&display=swap');
 body{
-    background-color: blanchedalmond;
+    background-color:pink;
+    font-family: 'Bree Serif', serif;
+    color:#8FBDD3
 }
-h1, h2 {
-    color: blueviolet;
-    }
-p{
-    color: blueviolet;
-}
-#my-anya {
+#my-anya{
     width: 900px;
-    border-radius: 50%;
+    border-radius: 50px;
 }
 #content{
-    text-align: center;
+    text-align:center;
+}
+#my-name {
+    font-family: 'Bree Serif', serif;
+    color:#3A3845
+
 }
