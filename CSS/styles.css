@@ -5,8 +5,8 @@ body{
     color:#8FBDD3
 }
 #my-anya{
-    width: 900px;
-    border-radius: 50px;
+    width: 500px;
+    border-radius: 70%;
 }
 #content{
     text-align:center;
@@ -14,5 +14,24 @@ body{
 #my-name {
     font-family: 'Bree Serif', serif;
     color:#3A3845
-
+}
+#left-side{
+    width: 59%;
+    display:inline-block;
+}
+#right-side {
+    width: 40%;
+    display:inline-block;
+    text-align:right;
+}
+a{
+    color:#A97155;
+    text-decoration: none;
+    border-bottom:1px dotted #BE8C63;
+}
+header{
+    margin-top: 16px;
+}
+.nav-link {
+    margin-left: 8px;
 }
