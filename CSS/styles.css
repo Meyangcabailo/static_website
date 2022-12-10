@@ -6,7 +6,7 @@ body{
 }
 #my-anya{
     width: 500px;
-    border-radius: 70%;
+    border-radius: 50%;
 }
 #content{
     text-align:center;
@@ -30,8 +30,20 @@ a{
     border-bottom:1px dotted #BE8C63;
 }
 header{
-    margin-top: 16px;
+    margin-top: 20px;
 }
 .nav-link {
-    margin-left: 8px;
+    margin-left: 20px;
+}
+
+footer{
+    background: #8FBDD3;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%);
+    margin-bottom: 16px;
+}
+footer a:first-child {
+margin-right: 16px;
 }
