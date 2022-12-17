@@ -74,3 +74,20 @@ margin-right: 16px;
     left:50%;
     transform:translate(-50%, -50%)
 }
+/* Projects page */
+#hero-banner{
+    background: linear-gradient(200deg, green, red, yellow, black, blue);
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+#hero-banner > div{
+    width: 900px;
+    margin: auto;
+}
+#hero-banner > div > div {
+    display: inline-block;
+}
+#hero-banner h1
+#hero-banner h2{
+  color: aqua;
+}
